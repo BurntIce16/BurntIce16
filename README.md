@@ -19,7 +19,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=burntice16" alt="burntice16" /></a> </p>
 
-- 🥕 I’m currently working on [FoodMap](https://github.com/BurntIce16/FoodMap)
+- 🥕 I’m currently working on [Chip8Emu](https://github.com/BurntIce16/Chip8Emu)
 
 - 🌱 I’m currently learning **NextJS, SQL, MSP430X**
 
