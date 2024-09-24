@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Bicey (they/them)</h1>
+<h1 align="center">Hey, I'm Bicey (she/they)</h1>
 <h3 align="center">A CS/RBE Undergraduate student at WPI</h3>
 
 
@@ -21,7 +21,7 @@
 
 - 🥕 I’m currently working on [Chip8Emu](https://github.com/BurntIce16/Chip8Emu)
 
-- 🌱 I’m currently learning **NextJS, SQL, MSP430X**
+- 🌱 I’m currently learning **NextJS, SQL, MSP430X, Tauri**
 
 - 🔧 Some of my work [BoltBox](https://github.com/BoltBoxEngine/BoltBox)
 
