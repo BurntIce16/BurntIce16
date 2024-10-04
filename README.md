@@ -8,12 +8,6 @@
   </a>
 </div>
 
-<div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=roqxc45ydyjatz87en9iak68q&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=roqxc45ydyjatz87en9iak68q&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile">
-  </a>
-</div>
-
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=burntice16&label=Profile%20views&color=0e75b6&style=flat-square" alt="burntice16" /> </p>
 
