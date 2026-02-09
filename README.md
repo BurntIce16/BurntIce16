@@ -3,7 +3,7 @@
 
 - I’m currently working on [Chip8Emu](https://github.com/BurntIce16/Chip8Emu)
 
-- I’m currently learning **STM32, BeamNG.Tech, PCB Design, and FreeCad**
+- I’m currently learning **STM32, PCB Design, and FreeCad**
 
 - My Hobbies include **Embedded programming, 3D Printing, and Combat Robotics**
 
